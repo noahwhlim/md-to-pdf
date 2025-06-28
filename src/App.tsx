@@ -29,7 +29,6 @@ function App() {
         .save();
     }
   };
-
   return (
     <div className="h-[92vh]">
       <div className="py-4 px-16 flex flex-row justify-center h-[95%]">
